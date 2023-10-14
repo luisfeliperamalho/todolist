@@ -60,6 +60,14 @@
 			<version>0.10.2</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.junit</groupId>
+			<artifactId>junit-bom</artifactId>
+			<version>5.8.2</version>
+			<scope>import</scope>
+			<type>pom</type>
+		</dependency>
+
 
 	</dependencies>
 
